@@ -1,6 +1,6 @@
-##### Hi there 👋
+## Hi there 👋
 ---
-**only at the start
+**only at the star**
 
 Loading… █[][][][][][][][][] 10%
 ___
